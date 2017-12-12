@@ -34,7 +34,8 @@
 ![](https://github.com/KOREN-Platform/Collaboration/blob/master/Images/tasks.png)
 
 ## KOREN 2017 Project Demonstrations
-  
-|No.|Title   |Developer|Poster|Video|
-|:---:|:------:|:-----|:-----|:-----|
-|1|-|-|link|link|
+
+|No.|Title   |Poster|
+|:---:|:------:|:-----|
+|1|Koren SmartX Open Platform|[Poster](https://github.com/KOREN-Platform/Collaboration/blob/master/Demonstrations/Demo1.png)|
+|2|컨테이너 기반 Smart Air IoT-Cloud 서비스|[Poster](https://github.com/KOREN-Platform/Collaboration/blob/master/Demonstrations/Demo2.png)|
